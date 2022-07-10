@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TBD"
+title                    : "tbd"
 title_separator          : "-"
 name                     : &name "Raghavendra Navaratna"
 description              : &description "personal description"
