@@ -42,38 +42,36 @@ Work experience
 Projects
 ======
 * March - May 2022: Grid World problem using Reinforcement Learning
-  * Indian Institute of Science (IISc)
-  * Duties included: 
-    - Flying wing UAV - Design & development, stealth capable, CFRP and FRP manufacturing.
-    - Amphibious UAV - Performance & stability analysis, structural design & fabrication.
+  * An archetype problem to learn and understand basics of reinforcement learning.
+  * Established Markov states and used dynamic programming - value iteration method.
+  * Implemented and solved the problem on python using OOP concepts.
 
 * March - May 2022: Balancing an Inverted Pendulum on a Cart
-  * Team Arcis (Aero Design Student Club)
-  * Duties included: 
-    - Planning, logistics, organizing and execution.
-    - Initiated participation of the team in AIAA – DBF. 
-    - Writing technical design report.
-    - Co-building a subsonic wind tunnel.
+  * Explored classical control approach to stabilize the inverted pendulum.
+  * Designed a Proportional Integral Derivative (PID) controller, a Linear Quadratic Regulator (LQR) for
+    position and orientation control, and integrated a Kalman Filter for state estimation. 
+  * Physical modeling of the inverted pendulum using Simscape.
 
 * March - May 2022: Autonomous Precision Landing of Model Rockets
-  * Team Arcis (Aero Design Student Club)
-  * Duties included:  
-    - Writing technical design report and making technical presentation.
-    - Design, fabrication and testing of unmanned aerial vehicles (UAVs).
-    - Experimental aircraft configuration - development & testing.
+  (*Bachelor's Thesis*)
+  * Worked on detail design and development of rocket body and thrust vector control (TVC) system.
+  * Worked on aerodynamic, performance and stability analysis.
+  * Built a mathematical model to represent the dynamics of the rocket.
+  * Developed a PID and LQR-based controller to regulate attitude, altitude, and drift.
 
 * March - May 2022: Simulation of Kármán Vortex Street of Bluff Bodies for
-    Piezoelectric Energy Harvesters Bachelor’s Thesis
-  * Team Arcis (Aero Design Student Club)
-  * Duties included:  
-    - Writing technical design report and making technical presentation.
-    - Design, fabrication and testing of unmanned aerial vehicles (UAVs).
-    - Experimental aircraft configuration - development & testing.
+  * Worked on the dynamics of coupled fluid-solid interaction, flow separation & boundary layer theory. 
+  * Analyzed the effects of von Kármán vortex street on bluff bodies.
+  * Explored the possibilities of extracting energy from vortex induced vibrations on a piezoelectric
+    material.
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* MATLAB & Simulink
+* C++ | Python | PyTorch
+* Catia V5 | SolidWorks | Blender
+* COMSOL Multiphysics
+* LaTeX
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
