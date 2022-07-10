@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "tbd"
+title                    : "Raghavendra Navaratna"
 title_separator          : "-"
 name                     : &name "Raghavendra Navaratna"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Raghavendra Navaratna"
+  name             : "Raghav"
   avatar           : "pp.jpeg"
   bio              : "Engineer"
   location         : "Bangalore"
