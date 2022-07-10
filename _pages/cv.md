@@ -17,10 +17,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Project Intern
+  * Indian Institute of Science (IISc)
+  * Duties included: 
+    - Flying wing UAV - Design & development, stealth capable, CFRP and FRP manufacturing.
+    - Amphibious UAV - Performance & stability analysis, structural design & fabrication.
 
 * Fall 2015: Research Assistant
   * Github University
