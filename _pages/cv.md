@@ -67,15 +67,21 @@ Projects
   
 Skills
 ======
+**Technical**
+
 * MATLAB & Simulink
 * C++ | Python | PyTorch
 * Catia V5 | SolidWorks | Blender
 * COMSOL Multiphysics
 * LaTeX
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+**Software**
+
+* MATLAB & Simulink
+* C++ | Python | PyTorch
+* Catia V5 | SolidWorks | Blender
+* COMSOL Multiphysics
+* LaTeX
 
 Publications
 ======
