@@ -78,7 +78,7 @@ Skills
 * Scientific Computing:
   - Dimensionality reduction, SVD, PCA
 * Fluid Dynamics:
-  - Finite wing theory \vert Theory of Wing Sections
+  - Finite wing theory $\vert$ Theory of Wing Sections
 
 **Software**
 
