@@ -69,11 +69,16 @@ Skills
 ======
 **Technical**
 
-* MATLAB & Simulink
-* C++ | Python | PyTorch
-* Catia V5 | SolidWorks | Blender
-* COMSOL Multiphysics
-* LaTeX
+* Control Theory:
+  - Classical and modern control - PID, LQR, MPC
+* Aircraft Dynamics:
+  - 6DoF Modeling & Simulation - Euler & Quaternion methods
+* Machine Learning:
+  - Deep learning, CNN, RNN, LSTM
+* Scientific Computing:
+  - Dimensionality reduction, SVD, PCA
+* Fluid Dynamics:
+  - Finite wing theory | Theory of Wing Sections
 
 **Software**
 
