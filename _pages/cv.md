@@ -38,6 +38,38 @@ Work experience
     - Writing technical design report and making technical presentation.
     - Design, fabrication and testing of unmanned aerial vehicles (UAVs).
     - Experimental aircraft configuration - development & testing.
+
+Projects
+======
+* March - May 2022: Grid World problem using Reinforcement Learning
+  * Indian Institute of Science (IISc)
+  * Duties included: 
+    - Flying wing UAV - Design & development, stealth capable, CFRP and FRP manufacturing.
+    - Amphibious UAV - Performance & stability analysis, structural design & fabrication.
+
+* March - May 2022: Balancing an Inverted Pendulum on a Cart
+  * Team Arcis (Aero Design Student Club)
+  * Duties included: 
+    - Planning, logistics, organizing and execution.
+    - Initiated participation of the team in AIAA – DBF. 
+    - Writing technical design report.
+    - Co-starting a Research and Innovation Lab.
+    - Co-building a subsonic wind tunnel.
+
+  * March - May 2022: Autonomous Precision Landing of Model Rockets
+  * Team Arcis (Aero Design Student Club)
+  * Duties included:  
+    - Writing technical design report and making technical presentation.
+    - Design, fabrication and testing of unmanned aerial vehicles (UAVs).
+    - Experimental aircraft configuration - development & testing.
+
+  * March - May 2022: Simulation of Kármán Vortex Street of Bluff Bodies for
+    Piezoelectric Energy Harvesters Bachelor’s Thesis
+  * Team Arcis (Aero Design Student Club)
+  * Duties included:  
+    - Writing technical design report and making technical presentation.
+    - Design, fabrication and testing of unmanned aerial vehicles (UAVs).
+    - Experimental aircraft configuration - development & testing.
   
 Skills
 ======
