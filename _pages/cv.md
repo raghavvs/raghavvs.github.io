@@ -83,8 +83,8 @@ Skills
 **Software**
 
 * MATLAB & Simulink
-* C++ \vert Python \vert PyTorch
-* Catia V5 \vert SolidWorks \vert Blender
+* C++ $\vert$ Python $\vert$ PyTorch
+* Catia V5 $\vert$ SolidWorks $\vert$ Blender
 * COMSOL Multiphysics
 * LaTeX
 
