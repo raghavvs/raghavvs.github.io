@@ -23,10 +23,21 @@ Work experience
     - Flying wing UAV - Design & development, stealth capable, CFRP and FRP manufacturing.
     - Amphibious UAV - Performance & stability analysis, structural design & fabrication.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - 20: Team Manager
+  * Team Arcis (Aero Design Student Club)
+  * Duties included: 
+    - Planning, logistics, organizing and execution.
+    - Initiated participation of the team in AIAA – DBF. 
+    - Writing technical design report.
+    - Co-starting a Research and Innovation Lab.
+    - Co-building a subsonic wind tunnel.
+
+  * 2017 - 19: Technical Engineer
+  * Team Arcis (Aero Design Student Club)
+  * Duties included:  
+    - Writing technical design report and making technical presentation.
+    - Design, fabrication and testing of unmanned aerial vehicles (UAVs).
+    - Experimental aircraft configuration - development & testing.
   
 Skills
 ======
