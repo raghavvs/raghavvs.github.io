@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Mechanical, Dayananda Sagar College of Engineering, 2021
+* M.S. in Aerospace, University of Illinois Urbana-Champaign, 2025 (expected)
+<!---* Ph.D in Version Control Theory, GitHub University, 2018 (expected)--->
 
 Work experience
 ======
