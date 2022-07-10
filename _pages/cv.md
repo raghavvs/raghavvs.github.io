@@ -52,7 +52,7 @@ Projects
     position and orientation control, and integrated a Kalman Filter for state estimation. 
   * Physical modeling of the inverted pendulum using Simscape.
 
-* March - May 2022: Autonomous Precision Landing of Model Rockets
+* March - May 2022: Autonomous Precision Landing of Model Rockets  
   (*Bachelor's Thesis*)
   * Worked on detail design and development of rocket body and thrust vector control (TVC) system.
   * Worked on aerodynamic, performance and stability analysis.
@@ -78,13 +78,13 @@ Skills
 * Scientific Computing:
   - Dimensionality reduction, SVD, PCA
 * Fluid Dynamics:
-  - Finite wing theory | Theory of Wing Sections
+  - Finite wing theory \vert Theory of Wing Sections
 
 **Software**
 
 * MATLAB & Simulink
-* C++ | Python | PyTorch
-* Catia V5 | SolidWorks | Blender
+* C++ \vert Python \vert PyTorch
+* Catia V5 \vert SolidWorks \vert Blender
 * COMSOL Multiphysics
 * LaTeX
 
