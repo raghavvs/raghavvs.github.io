@@ -20,7 +20,7 @@ Work experience
 * Summer 2021: Project Intern
   * Indian Institute of Science (IISc)
   * Duties included: 
-    - Flying wing UAV - Design & development, stealth capable, CFRP and FRP manufacturing.
+    - Flying wing UAV - Design & development, stealth characteristics, CFRP and FRP manufacturing.
     - Amphibious UAV - Performance & stability analysis, structural design & fabrication.
 
 * 2019 - 20: Team Manager
@@ -88,7 +88,7 @@ Skills
 * COMSOL Multiphysics
 * LaTeX
 
-Publications
+<!--Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -108,4 +108,25 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams-->
+
+Courses
+======
+
+* **Reinforcement Learning:** DeepMind
+* **Deep Learning Specialization:** deeplearning.ai
+* **Machine Learning:** Stanford University
+* **Fundamentals of Fluid-Solid Interaction::** École Polytechnique
+* **Design of Fixed Wing Unmanned Aerial Vehicles:** IIT Kanpur
+
+Achievements
+======
+
+* **2021:** Best Project Award from DSCE (*Bachelor’s thesis*)
+* **2020:** 2nd Place in Overall SAE Aero Design West
+* **2019:** 1st Place in Technical Presentation SAE Aero Design West
+
+Languages
+======
+
+* English $\vert$ Kannada
