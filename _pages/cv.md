@@ -59,7 +59,7 @@ Projects
   * Built a mathematical model to represent the dynamics of the rocket.
   * Developed a PID and LQR-based controller to regulate attitude, altitude, and drift.
 
-* March - May 2022: Simulation of Kármán Vortex Street of Bluff Bodies for
+* March - May 2022: Simulation of Kármán Vortex Street of Bluff Bodies for Piezoelectric Energy Harvesters
   * Worked on the dynamics of coupled fluid-solid interaction, flow separation & boundary layer theory. 
   * Analyzed the effects of von Kármán vortex street on bluff bodies.
   * Explored the possibilities of extracting energy from vortex induced vibrations on a piezoelectric
