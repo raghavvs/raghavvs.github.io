@@ -3,6 +3,7 @@ title: 'Is There Any Original Writing?'
 date: 2021-05-23
 permalink: /posts/2021/05/Is There Any Original Writing?/
 tags:
+collections: posts
   - epistemology
   - writing
   - explainations
