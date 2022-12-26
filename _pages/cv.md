@@ -97,6 +97,7 @@ Skills
 **Software**
 
 * MATLAB & Simulink
+* ROS & MoveIt
 * C++ $\vert$ Python $\vert$ PyTorch
 * Catia V5 $\vert$ SolidWorks $\vert$ Blender
 * COMSOL Multiphysics
