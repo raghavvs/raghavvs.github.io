@@ -36,20 +36,25 @@ Work Experience
 
 Projects
 ======
-* March - May 2022: Balancing an Inverted Pendulum on a Cart
-  * Explored classical control approach to stabilize the inverted pendulum.
-  * Designed a Proportional Integral Derivative (PID) controller, a Linear Quadratic Regulator (LQR) for
-    position and orientation control, and integrated a Kalman Filter for state estimation. 
-  * Physical modeling of the inverted pendulum using Simscape.
-
-* March - May 2022: Autonomous Precision Landing of Model Rockets  
+* Autonomous Precision Landing of Model Rockets - [GitHub](https://github.com/raghavvs/Autonomous-Landing-of-Model-Rockets)
   (*Bachelor's Thesis*)
   * Worked on detail design and development of rocket body and thrust vector control (TVC) system.
   * Worked on aerodynamic, performance and stability analysis.
   * Built a mathematical model to represent the dynamics of the rocket.
   * Developed a PID and LQR-based controller to regulate attitude, altitude, and drift.
 
-* March - May 2022: Simulation of Kármán Vortex Street of Bluff Bodies for Piezoelectric Energy Harvesters
+* Balancing an Inverted Pendulum on a Cart - [GitHub](https://github.com/raghavvs/Inverted-Pendulum-on-a-Cart)
+  * Explored classical control approach to stabilize the inverted pendulum.
+  * Designed a Proportional Integral Derivative (PID) controller, a Linear Quadratic Regulator (LQR) for
+    position and orientation control, and integrated a Kalman Filter for state estimation. 
+  * Physical modeling of the inverted pendulum using Simscape.
+
+* Grid World problem using Reinforcement Learning - [GitHub](https://github.com/raghavvs/Grid-world-reinforcement-learning)
+  * An archetype problem to learn and understand basics of reinforcement learning.
+  * Established Markov states and used dynamic programming - value iteration method.
+  * Implemented and solved the problem on python using OOP concepts.
+
+* Simulation of Kármán Vortex Street of Bluff Bodies for Piezoelectric Energy Harvesters - [GitHub](https://github.com/raghavvs/Simulation-of-Karman-Vortex-Street-of-Bluff-Bodies-for-Piezoelectric-Energy-Harvesters)
   * Worked on the dynamics of coupled fluid-solid interaction, flow separation & boundary layer theory. 
   * Analyzed the effects of von Kármán vortex street on bluff bodies.
   * Explored the possibilities of extracting energy from vortex induced vibrations on a piezoelectric
