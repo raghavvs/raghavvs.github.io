@@ -17,7 +17,7 @@ Education
 
 Research Experience
 ======
-* September 2022 - Current: Independent Study | [GitHub](https://github.com/RMDLO/abb_dual_arm)
+* September 2022 - Current: Independent Study - [GitHub](https://github.com/RMDLO/abb_dual_arm)
   * University of Illinois Urbana-Champaign
   * Duties included: 
     - Worked in the Robotics Lab with Dr.Timothy Bretl and Holly Dinkel on NASA funded project - ”Astrobee Robot Challenge” - to build a dual-arm robotic system to detect and manipulate wires aboard the ISS.
