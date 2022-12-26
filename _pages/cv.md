@@ -11,11 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.E. in Mechanical, Dayananda Sagar College of Engineering, 2021
 * M.S. in Aerospace, University of Illinois Urbana-Champaign, 2024 (expected)
+* B.E. in Mechanical, Dayananda Sagar College of Engineering, 2021
 <!---* Ph.D in Version Control Theory, GitHub University, 2018 (expected)--->
 
-Work experience
+Research Experience
+======
+* September 2022 - Current: Independent Study
+  * University of Illinois Urbana-Champaign
+  * Duties included: 
+    - Worked in the Robotics Lab with Dr.Timothy Bretl and Holly Dinkel on NASA funded project - ”Astrobee Robot Challenge” - to build a dual-arm robotic system to detect and manipulate wires aboard the ISS.
+    - Updated the ROS drivers for the robotic arms to execute simultaneous and synchronous trajectory of two independent robotic arms. 
+    - Worked on incorporating a secondary robotic arm into the ROS URDF file. 
+    - Simulated the trajectory using MoveIt motion planning tool and validated by testing with physical arms. 
+    - Built a framework for using industrial robots in multi-arm setup.
+
+Work Experience
 ======
 * Summer 2021: Project Intern
   * Indian Institute of Science (IISc)
@@ -23,29 +34,8 @@ Work experience
     - Flying wing UAV - Design & development, stealth characteristics, CFRP and FRP manufacturing.
     - Amphibious UAV - Performance & stability analysis, structural design & fabrication.
 
-* 2019 - 20: Team Manager
-  * Team Arcis (Aero Design Student Club)
-  * Duties included: 
-    - Planning, logistics, organizing and execution.
-    - Initiated participation of the team in AIAA – DBF. 
-    - Writing technical design report.
-    - Co-starting a Research and Innovation Lab.
-    - Co-building a subsonic wind tunnel.
-
-* 2017 - 19: Technical Engineer
-  * Team Arcis (Aero Design Student Club)
-  * Duties included:  
-    - Writing technical design report and making technical presentation.
-    - Design, fabrication and testing of unmanned aerial vehicles (UAVs).
-    - Experimental aircraft configuration - development & testing.
-
 Projects
 ======
-* March - May 2022: Grid World problem using Reinforcement Learning
-  * An archetype problem to learn and understand basics of reinforcement learning.
-  * Established Markov states and used dynamic programming - value iteration method.
-  * Implemented and solved the problem on python using OOP concepts.
-
 * March - May 2022: Balancing an Inverted Pendulum on a Cart
   * Explored classical control approach to stabilize the inverted pendulum.
   * Designed a Proportional Integral Derivative (PID) controller, a Linear Quadratic Regulator (LQR) for
@@ -64,6 +54,25 @@ Projects
   * Analyzed the effects of von Kármán vortex street on bluff bodies.
   * Explored the possibilities of extracting energy from vortex induced vibrations on a piezoelectric
     material.
+
+Extracurricular Activities
+======
+* 2019 - 20: Team Manager
+  * Team Arcis (Aero Design Student Club)
+  * Duties included: 
+    - Planning, logistics, organizing and execution.
+    - Initiated participation of the team in AIAA – DBF. 
+    - Writing technical design report.
+    - Co-starting a Research and Innovation Lab.
+    - Co-building a subsonic wind tunnel.
+
+* 2017 - 19: Technical Engineer
+  * Team Arcis (Aero Design Student Club)
+  * Duties included:  
+    - Writing technical design report and making technical presentation.
+    - Design, fabrication and testing of unmanned aerial vehicles (UAVs).
+    - Experimental aircraft configuration - development & testing.
+
   
 Skills
 ======
