@@ -18,6 +18,15 @@ I enjoy - cycling, swimming, playing tennis and reading.
 
 This website is a platform for me to share my journey, insights, and the work I am involved in. As you navigate through, I hope you find the content engaging and insightful. Please feel free to get in touch for any collaborations, discussions, or queries.
 
+Some of the most interesting topics that I am studying / would like to study:
+* Advanced Probability Theory and Stochastic Models
+* Group Theory - Lie Groups in particular
+* Information Theory
+* Geometric Algebra
+* Multiple View Geometry in Computer Vision by Richard Hartley - *this is an excellent textbook*
+
+The thing I enjoy the most is understanding the connection between various layers of abstraction.
+
 My favorite book for the year 2023 - The Book of Why by *Dana Mackenzie and Judea Pearl*
 
 Some of my to re-read list:
@@ -26,4 +35,6 @@ Some of my to re-read list:
 * Meditations - Marcus Aurelius by *Gregory Hays Translation*
 * The Black Swan: On Robustness and Fragility, Deeper Philosophical and Empirical Reflections by *Nassim Nicholas Taleb*
 * Digital Fortress by *Dan Brown*
-* The Hidden Language of Computer Hardware and Software: Code *Charles Petzold*
+* The Hidden Language of Computer Hardware and Software: Code by *Charles Petzold*
+
+*aspiring polymath at work and all I want to do is - build a C-3PO*
