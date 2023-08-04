@@ -8,4 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year masters student studying Control Systems in the department of Aerospace Engineering, at the University of Illinois at Urbana-Champaign. I am primarily interested in working on control algorithm development, modeling of system dynamics and to incorporate machine learning into control systems for unidentifiable dynamics. I am also interested in working at the intersection of control systems and machine learning, particularly, reinforcement learning. I am keen on understanding the practical challenges of implementing learning-based control algorithms on real-physical systems.
+My name is Raghav, and I am currently a second-year graduate student at the University of Illinois at Urbana-Champaign, specializing in Dynamics and Control Systems within the Department of Aerospace Engineering.
+
+My academic and professional interests lie at the intersection of Control Systems and Machine Learning, particularly in the realm of Reinforcement Learning. My curiosity is fueled by an understanding of practical challenges that come with implementing learning-based control algorithms on actual physical systems. I am drawn to the development of control algorithms, system dynamics modeling, and the integration of machine learning into control systems to handle elusive dynamics.
+
+In the field of robotics, my expertise and research interests span across computer vision, motion planning, perception, and manipulation. I am currently engrossed in working on sample-based planners, exploring the use of marching primitives for shape abstraction, and integrating Learning from Demonstration (LfD) methods with sample-based planners. This focus reflects my drive to contribute to the ongoing advancements in robotics.
+
+I enjoy - cycling, swimming, playing tennis and reading.
+
+This website is a platform for me to share my journey, insights, and the work I am involved in. As you navigate through, I hope you find the content engaging and insightful. Please feel free to get in touch for any collaborations, discussions, or queries.
+
+My favorite book for the year 2023 - The Book of Why by *Dana Mackenzie and Judea Pearl*
+
+Some of my to re-read list:
+* The Beginning of Infinity by *David Deutsch*
+* The Information: A History, a Theory, a Flood by *James Gleick*
+* Meditations - Marcus Aurelius by *Gregory Hays Translation*
+* The Black Swan: On Robustness and Fragility, Deeper Philosophical and Empirical Reflections by *Nassim Nicholas Taleb*
+* Digital Fortress by *Dan Brown*
+* The Hidden Language of Computer Hardware and Software: Code *Charles Petzold*

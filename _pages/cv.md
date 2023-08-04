@@ -11,24 +11,37 @@ redirect_from:
 
 Education
 ======
-* M.S. in Aerospace, University of Illinois Urbana-Champaign, 2024 (expected)
-* B.E. in Mechanical, Dayananda Sagar College of Engineering, 2021
+* M.S. in Aerospace, University of Illinois Urbana-Champaign (UIUC), Dec. 2023 (expected)
+* B.E. in Mechanical, Vishweshwaraiah Technological University (VTU), 2021
 <!---* Ph.D in Version Control Theory, GitHub University, 2018 (expected)--->
 
 Research Experience
 ======
-* September 2022 - Current: Independent Study - [GitHub](https://github.com/RMDLO/abb_dual_arm)
+* September 2022 - Current: Researcher - [GitHub](https://github.com/RMDLO/abb_dual_arm)
   * University of Illinois Urbana-Champaign
   * Duties included: 
-    - Worked in the Robotics Lab with Dr.Timothy Bretl and Holly Dinkel on NASA funded project - ”Astrobee Robot Challenge” - to build a dual-arm robotic system to detect and manipulate wires aboard the ISS.
-    - Updated the ROS drivers for the robotic arms to execute simultaneous and synchronous trajectory of two independent robotic arms. 
-    - Worked on incorporating a secondary robotic arm into the ROS URDF file. 
-    - Simulated the trajectory using MoveIt motion planning tool and validated by testing with physical arms. 
-    - Built a framework for using industrial robots in multi-arm setup.
+    - Collaborated in the ”Intelligent Robotics Group” under the guidance of Dr. Timothy Bretl and Holly Dinkel, contributing to the NASA-funded ”Astrobee Robot Challenge”. This project involved the development of a dual-arm robotic system designed to identify and manipulate wires on the International Space Station (ISS).
+    - Enhanced the Robot Operating System (ROS) drivers for ABB IRB 120 robotic arms, enabling the simultaneous execution of independent trajectories for both arms.
+    - Leveraged the MoveIt motion planning tool to simulate the arm trajectory, followed by validation using the physical arms.
+    - Built a comprehensive framework for utilizing industrial robots within a multi-arm setup. 
+    - Performed extrinsic camera calibration for robot base-to-base transformations employing probabilistic methods and geometric algebra techniques in computer vision.
+    - Created a custom C++ package for executing extrinsic camera calibration using probabilistic approaches.
+    - Engaged in 6D pose estimation using RGB+D cameras and conducted both simultaneous and non-simultaneous calibration for multiple robots.
+
 
 Work Experience
 ======
-* Summer 2021: Project Intern
+* Summer 2023: Research Intern
+  * National University of Singapore (NUS)
+  * Duties included: 
+    - Collaborating within the ”Robot and Protein Kinematics Laboratory (RPK)” under the supervision of Dr. Gregory Chirikjian and Dr. Sipu Ruan, focusing on aspects of robotic calibration, perception, planning, manipulation, and control.
+    - Developed a C++ package for the calibration and evaluation of robot hand-eye and robot-world interaction. 
+    - Currently engaged in work on sampling-based planners such as probabilistic roadmaps and highway roadmaps, with a particular focus on the ”narrow passage” issue.
+    - Contributed to the development and refinement of the Highway Roadmap (HRM) planning codebase. 
+    - Actively integrating high-level task planning into PRIMP (Probabilistically-Informed Motion Planning) and investigating potential research directions involving Learning from Demonstration (LfD) methods and sample-based planners. 
+    - Undertaking work on primitive-based representation for 3D scene and object representation for shape abstraction.This involves utilizing the Marching Primitives methodology developed by the lab and incorporating new scenes into the HRM planner based on superquadrics derived from the Marching Primitives research.
+
+* Summer 2021: Research Intern
   * Indian Institute of Science (IISc)
   * Duties included: 
     - Flying wing UAV - Design & development, stealth characteristics, CFRP and FRP manufacturing.
@@ -83,6 +96,8 @@ Skills
 ======
 **Technical**
 
+* Robotics:
+  - Computer Vision - Perception and Motion Planning
 * Control Theory:
   - Classical and modern control - PID, LQR, MPC
 * Aircraft Dynamics:
@@ -96,9 +111,10 @@ Skills
 
 **Software**
 
-* MATLAB & Simulink
+* Bash, XML, Linux, Git
 * ROS & MoveIt
-* C++ $\vert$ Python $\vert$ PyTorch
+* C++ (OpenCV, PCL, Eigen) $\vert$ Python $\vert$ PyTorch
+* MATLAB & Simulink
 * Catia V5 $\vert$ SolidWorks $\vert$ Blender
 * COMSOL Multiphysics
 * LaTeX
