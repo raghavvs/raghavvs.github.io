@@ -10,9 +10,9 @@ redirect_from:
 
 My name is Raghav, and I am currently a second-year graduate student at the University of Illinois at Urbana-Champaign, specializing in Dynamics and Control Systems within the Department of Aerospace Engineering.
 
-My academic and professional interests lie at the intersection of Control Systems and Machine Learning, particularly in the realm of Reinforcement Learning. My curiosity is fueled by an understanding of practical challenges that come with implementing learning-based control algorithms on actual physical systems. I am drawn to the development of control algorithms, system dynamics modeling, and the integration of machine learning into control systems to handle elusive dynamics.
+My academic and professional interests lie at the intersection of Control Systems and Machine Learning, particularly in the realm of Reinforcement Learning and Computer Vision. My curiosity is fueled by an understanding of practical challenges that come with implementing learning-based control algorithms on actual physical systems. I am drawn to the development of control algorithms, system dynamics modeling, and the integration of learning-based methods into control systems to handle elusive dynamics.
 
-In the field of robotics, my expertise and research interests span across computer vision, motion planning, perception, and manipulation. I am currently engrossed in working on sample-based planners, exploring the use of marching primitives for shape abstraction, and integrating Learning from Demonstration (LfD) methods with sample-based planners. This focus reflects my drive to contribute to the ongoing advancements in robotics.
+In the field of robotics, my *expertise* and research interests span across computer vision, motion planning, perception, and manipulation. I am currently engrossed in working on sample-based planners, exploring the use of marching primitives for shape abstraction, and integrating Learning from Demonstration (LfD) methods with sample-based planners. This focus reflects my drive to contribute to the ongoing advancements in robotics.
 
 I enjoy - cycling, swimming, playing tennis and reading.
 
