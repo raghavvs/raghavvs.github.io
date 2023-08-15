@@ -1,6 +1,6 @@
 ---
 title: "The Inverted Pendulum Problem"
-excerpt: "Inverted Pendulum <br/><img src='/images/dynamics.png'>"
+excerpt: "<br/><img src='/images/dynamics.png'>"
 collection: portfolio
 ---
 

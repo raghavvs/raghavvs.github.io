@@ -18,6 +18,6 @@ The rocket body and its components are designed considering the principles of De
 
 ![Free Body Diagram](/images/rocket_FBD3.png "Free Body Diagram")
 
-![Methodology: Design Phase](/images/Methodolgy_Design_Phase_1.png "Methodology: Design Phase")
+![Methodology: Design Phase](/images/Methodology_Design_Phase_1.png "Methodology: Design Phase")
 
-![Methodology: Testing Phase](/images/Methodolgy_Testing_Phase_1.png "Methodology: Testing Phase")
+![Methodology: Testing Phase](/images/Methodology_Testing_Phase_1.png "Methodology: Testing Phase")
