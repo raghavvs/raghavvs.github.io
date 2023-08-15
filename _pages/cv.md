@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Aerospace Engineering, University of Illinois Urbana-Champaign (UIUC), Dec. 2023 (expected)
-  - Specializing: Robotics, Dynamical and Control Systems
+  - Specialization: Robotics, Dynamical and Control Systems
 * B.E. in Mechanical Engineering, Vishweshwaraiah Technological University (VTU), 2021
 <!---* Ph.D in Version Control Theory, GitHub University, 2018 (expected)--->
 
