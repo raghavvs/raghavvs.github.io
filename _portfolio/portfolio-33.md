@@ -1,6 +1,6 @@
 ---
 title: "Modelling and Simulation of von Kármán Vortex Street of Bluff Bodies for Piezoelectric Energy Harvester"
-excerpt: "Piezoelectric Energy Harvester using Kármán Vortex @Re 200 1<br/><img src='/images/Laminar_Flow_d_p1_re200_2.png'>"
+excerpt: "Piezoelectric Energy Harvester using Kármán Vortex @Re 200 <br/><img src='/images/Laminar_Flow_d_p1_re200_2.png'>"
 collection: portfolio
 ---
 
