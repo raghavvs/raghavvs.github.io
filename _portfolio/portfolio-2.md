@@ -1,6 +1,6 @@
 ---
-title: "Modelling and Simulation of von Kármán Vortex Street of Bluff Bodies for Piezoelectric Energy Harvester"
-excerpt: "Piezoelectric Energy Harvester using Kármán Vortex @Re 200 1<br/><img src='/images/R_parts_description2.png'>"
+title: "Autonomous Precision Landing of Model Rockets"
+excerpt: "Model Rocket 1<br/><img src='/images/R_parts_description2.png'>"
 collection: portfolio
 ---
 
