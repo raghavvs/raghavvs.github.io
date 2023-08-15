@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in Aerospace, University of Illinois Urbana-Champaign (UIUC), Dec. 2023 (expected)
-* B.E. in Mechanical, Vishweshwaraiah Technological University (VTU), 2021
+* M.S. in Aerospace Engineering, University of Illinois Urbana-Champaign (UIUC), Dec. 2023 (expected)
+  - Specializing: Robotics, Dynamical and Control Systems
+* B.E. in Mechanical Engineering, Vishweshwaraiah Technological University (VTU), 2021
 <!---* Ph.D in Version Control Theory, GitHub University, 2018 (expected)--->
 
 Research Experience
@@ -94,6 +95,15 @@ Extracurricular Activities
   
 Skills
 ======
+**Software**
+
+* Bash, XML, Linux, Git Version Control
+* ROS $\vert$ MoveIt
+* C++ (OpenCV, PCL, Eigen) $\vert$ Python $\vert$ PyTorch
+* MATLAB & Simulink (Control Systems Toolbox)
+* Catia V5 $\vert$ SolidWorks $\vert$ Blender
+* LaTeX
+
 **Technical**
 
 * Robotics:
@@ -108,16 +118,6 @@ Skills
   - Dimensionality reduction, SVD, PCA
 * Fluid Dynamics:
   - Finite wing theory $\vert$ Theory of Wing Sections
-
-**Software**
-
-* Bash, XML, Linux, Git
-* ROS & MoveIt
-* C++ (OpenCV, PCL, Eigen) $\vert$ Python $\vert$ PyTorch
-* MATLAB & Simulink
-* Catia V5 $\vert$ SolidWorks $\vert$ Blender
-* COMSOL Multiphysics
-* LaTeX
 
 <!--Publications
 ======
@@ -160,4 +160,4 @@ Achievements
 Languages
 ======
 
-* English $\vert$ Kannada
+* English $\vert$ Kannada $\vert$ Hindi
