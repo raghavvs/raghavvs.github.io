@@ -12,11 +12,15 @@ A closed­loop feedback control system consisting of a Proportional Integral Der
 
 The rocket body and its components are designed considering the principles of Design for Assembly (DFA) and Design for Manufacturing (DFM), using Computer­Aided Design (CAD) software and analyzed using Finite Element Method (FEM) solvers. Computational Fluid Dynamics (CFD) is applied to visualize the flow around the rocket airframe and to evaluate the design of passive fins.
 
-![Flow Chart](/images/flowchart3.jpeg "Flow Chart")
+<div style="text-align:center">
+    ![Flow Chart](/images/flowchart3.jpeg "Flow Chart")
+</div>
 
 ![Thrust Test](/images/Thrust_Test_1.mp4 "Thrust Test")
 
-![Free Body Diagram](/images/rocket_FBD3.png "Free Body Diagram")
+<div style="text-align:center">
+    ![Free Body Diagram](/images/rocket_FBD3.png "Free Body Diagram")
+</div>
 
 ![Methodology: Design Phase](/images/Methodology_Design_Phase_1.png "Methodology: Design Phase")
 
