@@ -178,7 +178,7 @@ collections:
   posts:
     output: true
     permalink: /:collection/:path/
-  teaching:
+  robotics:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -212,10 +212,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _robotics
   - scope:
       path: ""
-      type: teaching
+      type: robotics
     values:
       layout: single
       author_profile: true

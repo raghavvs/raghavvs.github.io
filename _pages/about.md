@@ -37,4 +37,4 @@ Some of my to re-read list:
 * Digital Fortress by *Dan Brown*
 * The Hidden Language of Computer Hardware and Software: Code by *Charles Petzold*
 
-*aspiring polymath at work and all I want to do is - build a C-3PO*
+*aspiring polymath at work and all I want to do is --  build a C-3PO*
