@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  robotics:
+  teaching:
     output: true
     permalink: /:collection/:path/
 
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _robotics
+  # _teaching
   - scope:
       path: ""
-      type: robotics
+      type: teaching
     values:
       layout: single
       author_profile: true
