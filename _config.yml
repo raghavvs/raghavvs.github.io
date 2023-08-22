@@ -178,9 +178,6 @@ collections:
   posts:
     output: true
     permalink: /:collection/:path/
-  robotics:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
