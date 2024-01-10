@@ -27,8 +27,6 @@ Some of the most interesting topics that I am studying / would like to study:
 
 The thing I enjoy the most is understanding the connection between various layers of abstraction.
 
-My favorite book for the year 2023 - The Book of Why by *Dana Mackenzie and Judea Pearl*
-
 Some of my to re-read list:
 * The Beginning of Infinity by *David Deutsch*
 * The Information: A History, a Theory, a Flood by *James Gleick*
