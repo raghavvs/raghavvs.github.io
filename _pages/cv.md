@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Aerospace Engineering, University of Illinois Urbana-Champaign (UIUC), Dec. 2023 (expected)
+* M.S. in Aerospace Engineering, University of Illinois Urbana-Champaign (UIUC), Dec. 2023 
   - Specialization: Robotics, Dynamical and Control Systems
 * B.E. in Mechanical Engineering, Vishweshwaraiah Technological University (VTU), 2021
 <!---* Ph.D in Version Control Theory, GitHub University, 2018 (expected)--->
@@ -99,7 +99,7 @@ Skills
 
 * Bash, XML, Linux, Git Version Control
 * ROS $\vert$ MoveIt
-* C++ (OpenCV, PCL, Eigen) $\vert$ Python $\vert$ PyTorch
+* C++ (OpenCV, PCL, Eigen) $\vert$ CMake (Build System) $\vert$ Python $\vert$ PyTorch
 * MATLAB & Simulink (Control Systems Toolbox)
 * Catia V5 $\vert$ SolidWorks $\vert$ Blender
 * LaTeX
@@ -118,6 +118,22 @@ Skills
   - Dimensionality reduction, SVD, PCA
 * Fluid Dynamics:
   - Finite wing theory $\vert$ Theory of Wing Sections
+
+Achievements
+======
+
+* **2021:** Best Project Award from DSCE (*Bachelor’s thesis*)
+* **2020:** 2nd Place in Overall SAE Aero Design West
+* **2019:** 1st Place in Technical Presentation SAE Aero Design West
+
+Courses
+======
+
+* **Reinforcement Learning:** DeepMind
+* **Deep Learning Specialization:** deeplearning.ai
+* **Machine Learning:** Stanford University
+* **Fundamentals of Fluid-Solid Interaction::** École Polytechnique
+* **Design of Fixed Wing Unmanned Aerial Vehicles:** IIT Kanpur
 
 <!--Publications
 ======
@@ -140,24 +156,3 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams-->
-
-Courses
-======
-
-* **Reinforcement Learning:** DeepMind
-* **Deep Learning Specialization:** deeplearning.ai
-* **Machine Learning:** Stanford University
-* **Fundamentals of Fluid-Solid Interaction::** École Polytechnique
-* **Design of Fixed Wing Unmanned Aerial Vehicles:** IIT Kanpur
-
-Achievements
-======
-
-* **2021:** Best Project Award from DSCE (*Bachelor’s thesis*)
-* **2020:** 2nd Place in Overall SAE Aero Design West
-* **2019:** 1st Place in Technical Presentation SAE Aero Design West
-
-Languages
-======
-
-* English $\vert$ Kannada $\vert$ Hindi
