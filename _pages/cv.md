@@ -18,7 +18,7 @@ Education
 
 Research Experience
 ======
-* September 2022 - Current: Researcher - [GitHub](https://github.com/RMDLO/abb_dual_arm)
+* September 2022 - December 2023: Researcher - [GitHub](https://github.com/RMDLO/abb_dual_arm)
   * University of Illinois Urbana-Champaign
   * Duties included: 
     - Collaborated in the ”Intelligent Robotics Group” under the guidance of Dr. Timothy Bretl and Holly Dinkel, contributing to the NASA-funded ”Astrobee Robot Challenge”. This project involved the development of a dual-arm robotic system designed to identify and manipulate wires on the International Space Station (ISS).
@@ -26,9 +26,11 @@ Research Experience
     - Leveraged the MoveIt motion planning tool to simulate the arm trajectory, followed by validation using the physical arms.
     - Built a comprehensive framework for utilizing industrial robots within a multi-arm setup. 
     - Performed extrinsic camera calibration for robot base-to-base transformations employing probabilistic methods and geometric algebra techniques in computer vision.
-    - Created a custom C++ package for executing extrinsic camera calibration using probabilistic approaches.
-    - Engaged in 6D pose estimation using RGB+D cameras and conducted both simultaneous and non-simultaneous calibration for multiple robots.
-
+    - Created a custom C++ package [[GitHub]](https://github.com/RMDLO/axbycz_calibration) for executing extrinsic camera calibration using probabilistic approaches.
+    - Worked on 6D pose estimation using RGB+D cameras and conducted both simultaneous and non-simultaneous calibration for multiple robots.
+    - Created a pipeline for validating robot-robot calibration and extrinsic camera calibration.
+    - Building a pipeline for perception, tracking, motion planning and manipulation of deformable objects.
+    - Worked on synthetic data generation for deformable objects using NVIDIA IsaacSim.
 
 Work Experience
 ======
@@ -44,9 +46,12 @@ Work Experience
 
 * Summer 2021: Research Intern
   * Indian Institute of Science (IISc)
-  * Duties included: 
+  * Duties included:
+    - Worked within the Department of Aerospace Engineer, focusing on the design and development of unmanned aerial vehicles (UAVs). 
     - Flying wing UAV - Design & development, stealth characteristics, CFRP and FRP manufacturing.
     - Amphibious UAV - Performance & stability analysis, structural design & fabrication.
+    - Undertook static propulsion testing for both gas turbines and piston engines.
+    - Worked on avionics integration and modular servo holder design.
 
 Projects
 ======
@@ -95,25 +100,28 @@ Extracurricular Activities
   
 Skills
 ======
-**Software**
+**Software Tools**
 
 * Bash, XML, Linux, Git Version Control
-* ROS $\vert$ MoveIt
+* ROS (RViz, tf2, rqt) $\vert$ MoveIt $\vert$ IsaacSim $\vert$ NVIDIA Omniverse 
 * C++ (OpenCV, PCL, Eigen) $\vert$ CMake (Build System) $\vert$ Python $\vert$ PyTorch
 * MATLAB & Simulink (Control Systems Toolbox)
-* Catia V5 $\vert$ SolidWorks $\vert$ Blender
+* Catia V5 $\vert$ SolidWorks $\vert$ Fusion 360 $\vert$ Blender
 * LaTeX
 
 **Technical**
 
 * Robotics:
   - Computer Vision - Perception and Motion Planning
+  - Sensor and robot calibration
 * Control Theory:
   - Classical and modern control - PID, LQR, MPC
+  - Convex optimization
+  - Multi-agent control and Game Theory
 * Aircraft Dynamics:
   - 6DoF Modeling & Simulation - Euler & Quaternion methods
 * Machine Learning:
-  - Deep learning, CNN, RNN, LSTM
+  - Reinforcement Learning, Deep learning, CNN, RNN, LSTM
 * Scientific Computing:
   - Dimensionality reduction, SVD, PCA
 * Fluid Dynamics:
