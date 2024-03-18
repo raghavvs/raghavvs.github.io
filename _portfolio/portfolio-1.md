@@ -10,7 +10,7 @@ collection: portfolio
 
 This work was done at Bretl's Research Group, University of Illinois Urbana-Champaign alongside Holly Dinkel.
 
-The primary goal involved determining the relative pose between two industrial robotic arms (ABB IRB120) with millimeter accuracy. The setup of the worksapce: two robotic arms, one equiped with a Intel RealSense D435 stereo-vision camera and a OnRobot 2FG7 Gripper on the other arm.
+The primary goal involved determining the relative pose between two industrial robotic arms (ABB IRB120) with millimeter accuracy. The setup of the workspace: two robotic arms, one equipped with an Intel RealSense D435 stereo-vision camera and a OnRobot 2FG7 Gripper on the other arm.
 
 Please refer to the previous work to understand the prior status of the arms.
 
