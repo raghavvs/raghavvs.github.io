@@ -11,18 +11,18 @@ tags:
   - ontology-robotics
 ---
 
-<!---![Illustration](/images/ctrb.jpeg "Illustration")--->
+![Illustration](/images/sclsf_1.jpeg "Illustration")
 
 <details>
-<summary><strong>Table of Contents</strong></summary>
-<ul>
-<li><a href="#why-should-you-care-about-any-of-these-concepts">Why should you care about any of these concepts?</a></li>
-<li><a href="#sensor">Sensor</a></li>
-<li><a href="#calibration">Calibration</a></li>
-<li><a href="#localization">Localization</a></li>
-<li><a href="#sensor-fusion">Sensor Fusion</a></li>
-<li><a href="#tldr">tl;dr</a></li>
-</ul>
+    <summary><strong>Table of Contents</strong></summary>
+    <ul>
+        <li><a href="#why-should-you-care-about-any-of-these-concepts">Why should you care about any of these concepts?</a></li>
+            <li><a href="#sensor">Sensor</a></li>
+            <li><a href="#calibration">Calibration</a></li>
+            <li><a href="#localization">Localization</a></li>
+            <li><a href="#sensor-fusion">Sensor Fusion</a></li>
+        <li><a href="#tldr">tl;dr</a></li>
+    </ul>
 </details>
 
 ## Why should you care about any of these concepts?
