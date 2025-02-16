@@ -18,7 +18,7 @@ The thing I enjoy the most is understanding the connection between various layer
 
 This website is a platform for me to share my journey, insights, and the work I am involved in. As you navigate through, I hope you find the content engaging and insightful. Please feel free to get in touch for any collaborations, discussions, or queries.
 
-*aspiring polymath at work and building -- a C-3PO*
+*at work, building a C-3PO*
 
 
 <span class="last-updated" style="font-size: smaller; font-style: italic;">Last Updated: {{ site.time | date: '%Y-%m-%d %H:%M:%S' }}</span>
