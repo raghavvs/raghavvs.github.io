@@ -4,7 +4,7 @@ collection: teaching
 permalink: /teaching/Overview
 ---
 **************** *ontological work in  progress* ****************
-### **High-Level Overview of Robotics**
+<!-- ### **High-Level Overview of Robotics**
 
 1. **[Perception](Perception.md)**
    - [Vision-based perception](Vision-based_perception.md)
@@ -117,4 +117,4 @@ permalink: /teaching/Overview
 17. **[Localization and Mapping](Localization_and_Mapping.md)**
    - [Techniques like SLAM](Techniques_like_SLAM.md)
    - [Visual odometry](Visual_odometry.md)
-   - [GPS and non-GPS based localization](GPS_and_non-GPS_based_localization.md)
+   - [GPS and non-GPS based localization](GPS_and_non-GPS_based_localization.md) -->

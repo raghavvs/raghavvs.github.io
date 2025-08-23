@@ -9,12 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * M.S. in Aerospace Engineering, University of Illinois Urbana-Champaign (UIUC), Dec. 2023 
   - Specialization: Robotics, Dynamical and Control Systems
 * B.E. in Mechanical Engineering, Vishweshwaraiah Technological University (VTU), 2021
-<!---* Ph.D in Version Control Theory, GitHub University, 2018 (expected)--->
 
 Research Experience
 ======
@@ -141,7 +140,7 @@ Courses
 * **Deep Learning Specialization:** deeplearning.ai
 * **Machine Learning:** Stanford University
 * **Fundamentals of Fluid-Solid Interaction::** École Polytechnique
-* **Design of Fixed Wing Unmanned Aerial Vehicles:** IIT Kanpur
+* **Design of Fixed Wing Unmanned Aerial Vehicles:** IIT Kanpur -->
 
 <!--Publications
 ======
