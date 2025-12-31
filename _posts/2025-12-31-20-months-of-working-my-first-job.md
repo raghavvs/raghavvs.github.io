@@ -7,7 +7,7 @@ tags:
   - connectomics
   - ultramicrotomy
   - robotics 
-  - robotics
+  - autonomy
 ---
 
 *wip; first draft; don't read just yet*
@@ -16,9 +16,10 @@ tags:
 
 #### the above question is primarily contingent on the scale
 
-**40 nm to 10 microns** 
+**40 nm to 10 microns**<br> 
 **0.00000004 m to 0.00001 m**
-#### physics
+
+#### physical limits
 - mechanical
 - optical
 - electrical
@@ -48,3 +49,7 @@ tags:
 		- continuously cutting at about 40 nm using ultramicrotome
 		- common issues
 			- *might take a while to note them all*
+  - collection
+		- *automatic*
+		- loop-assisted pickup and dropoff of the section 
+		- 3 linear axis robot
